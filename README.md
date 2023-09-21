@@ -17,7 +17,10 @@ Inline-style:
 
 :blush:
 
-```c++
+```python
+s = "Python syntax highlighting"
+print s
+```
 
 
 
